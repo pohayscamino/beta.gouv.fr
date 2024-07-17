@@ -1,6 +1,6 @@
 ---
 title: Orion
-mission: Contribuer au pilotage de la révision et l'évolution de l'offre de formation des lycées professionnels
+mission: Contribuer à la transformation de la carte des formations des lycées professionnels
 sponsors:
   - /organisations/dgesco
 incubator: mission-inserjeunes
