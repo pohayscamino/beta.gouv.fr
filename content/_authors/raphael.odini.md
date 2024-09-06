@@ -5,17 +5,18 @@ role: Développeur
 github: raphodn
 link: https://raphodn.github.io
 missions:
-  - start: 2020-01-08
-    end: 2024-09-30
+  - start: 2024-08-05
+    end: 2024-12-31
     status: independent
-    employer: octo
+    employer: La Zone - Scopyleft
     startups:
-      - place-de-marche-inclusion
+      - ma-cantine-egalim
 startups:
-  - place-de-marche-inclusion
+  - ma-cantine-egalim
 previously:
   - aidantsconnect
   - aides-territoires
+  - place-de-marche-inclusion
 badges:
   - segur
 competences:
@@ -23,4 +24,4 @@ competences:
   - Développement Backend
   - Administration Système
 ---
-Développeur full-stack, j'aime les communs, apprendre (& faire), le vélo et les pingouins.
+Développeur full-stack, j'aime les communs, apprendre (& faire), le vélo et les pingouins. Salarié chez multi.coop
