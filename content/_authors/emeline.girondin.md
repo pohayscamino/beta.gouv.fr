@@ -9,7 +9,13 @@ missions:
     employer: 'DossierFacile '
     startups:
       - dossierfacile
+  - start: 2024-09-11
+    end: 2024-12-10
+    status: independent
+    startups:
+      - aplus
 startups:
   - dossierfacile
+  - aplus
 memberType: beta
 ---
