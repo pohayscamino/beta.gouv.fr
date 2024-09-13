@@ -17,5 +17,7 @@ competences:
   - écoconception
 memberType: beta
 link: https://www.linkedin.com/in/leowellhoff/
+teams:
+  - /teams/culture
 ---
 Designer au sein de l'Atelier Numérique, incubateur du Ministère de la Culture.
